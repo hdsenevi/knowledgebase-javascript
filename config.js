@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/knowledgebase-regex',
+    pathPrefix: '/knowledgebase-javascript',
     siteUrl: 'https://hdsenevi.github.io',
     gaTrackingId: null,
     trailingSlash: false,
@@ -10,7 +10,7 @@ const config = {
     logoLink: 'https://hasura.io/learn/',
     title:
       "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://hdsenevi.github.io/knowledgebase-regex',
+    githubUrl: 'https://hdsenevi.github.io/knowledgebase-javascript',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -54,8 +54,8 @@ const config = {
     title: 'Knowledge base Regular Expressions (RegEx)',
     description: 'My personal knowledge base for Regular Expressions (RegEx)',
     ogImage: null,
-    docsLocation: 'https://github.com/hdsenevi/knowledgebase-regex/tree/master/content',
-    favicon: 'https://github.com/hdsenevi/knowledgebase-regex/tree/master/src/images/img/hasura_icon_black.svg',
+    docsLocation: 'https://github.com/hdsenevi/knowledgebase-javascript/tree/master/content',
+    favicon: 'https://github.com/hdsenevi/knowledgebase-javascript/tree/master/src/images/img/hasura_icon_black.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
