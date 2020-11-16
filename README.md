@@ -1,6 +1,6 @@
-# Knowledge base - Regular Expressions (RegEx)
+# Knowledge base - JavaScript
 
-https://hdsenevi.github.io/knowledgebase-regex/
+https://hdsenevi.github.io/knowledgebase-javascript/
 
 ------
 
