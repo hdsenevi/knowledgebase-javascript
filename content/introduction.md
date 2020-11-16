@@ -1,5 +1,5 @@
 ---
-title: "Knowledge base: JavaScript"
+title: "Introduction"
 metaTitle: "My JS knowledge base"
 metaDescription: "My JS knowledge base"
 ---
